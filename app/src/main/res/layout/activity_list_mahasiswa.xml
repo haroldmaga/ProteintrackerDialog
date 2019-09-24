@@ -7,7 +7,7 @@
     tools:context=".ListMahasiswaActivity">
 
     <ListView
-        android:id="@+id/lvMhs"
+        android:id="@+id/lvLoremIpsum"
         android:layout_width="332dp"
         android:layout_height="95dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -20,7 +20,7 @@
     </ListView>
 
     <Spinner
-        android:id="@+id/mhsSpinner"
+        android:id="@+id/spinnerProgmob"
         android:layout_width="336dp"
         android:layout_height="105dp"
         android:layout_marginBottom="364dp"
