@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RecyclerViewActivity"></activity>
+        <activity android:name="proteintracker.com.DialogsActivity"></activity>
+        <activity android:name="proteintracker.com.MenuActivity" />
+        <activity android:name=".RecyclerViewActivity" />
         <activity android:name=".ListActivity" />
         <activity android:name=".UpdateMhsActivity" />
         <activity android:name=".CreateMhsActivity" />
